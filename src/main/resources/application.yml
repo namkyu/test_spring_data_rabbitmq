@@ -1,10 +1,7 @@
 
 spring:
   rabbitmq:
-    port: 5672
     username: admin
     password: admin
-    addresses:
-      - localhost:5672
-      - localhost:5673
-      - localhost:5674
+    addresses: localhost:5672, localhost:5673, localhost:5674
+    virtual-host: /
