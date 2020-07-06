@@ -5,12 +5,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @Project : test_spring_data_rabbitmq
- * @Date : 2020-05-27
- * @Author : nklee
- * @Description :
- */
 @RestController
 public class SendController {
 

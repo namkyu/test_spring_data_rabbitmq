@@ -8,12 +8,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-/**
- * @Project : test_spring_data_rabbitmq
- * @Date : 2020-07-02
- * @Author : nklee
- * @Description :
- */
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class SenderServiceTest {

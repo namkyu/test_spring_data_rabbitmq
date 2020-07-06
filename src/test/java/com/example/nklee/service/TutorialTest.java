@@ -12,12 +12,6 @@ import java.nio.charset.StandardCharsets;
 import java.util.concurrent.TimeoutException;
 import java.util.stream.IntStream;
 
-/**
- * @Project : test_spring_data_rabbitmq
- * @Date : 2020-07-06
- * @Author : nklee
- * @Description :
- */
 public class TutorialTest {
 
     private final static String QUEUE_NAME = "hello";

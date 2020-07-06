@@ -11,12 +11,6 @@ import org.springframework.amqp.support.converter.MessageConverter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @Project : test_spring_data_rabbitmq
- * @Date : 2020-05-27
- * @Author : nklee
- * @Description :
- */
 @Configuration
 public class RabbitConfiguration {
 
